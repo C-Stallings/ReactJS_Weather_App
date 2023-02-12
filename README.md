@@ -1,3 +1,7 @@
+# Getting Started with OpenWeather API
+
+This project utilized the weather API [OpenWeather](https://openweathermap.org/) to pull current weather information.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
