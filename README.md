@@ -75,8 +75,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 ## Photo Credit:
-"Clear Sky" Photo by Ritam Baishya on Unsplash
-"Sunny" Photo by David Law on Unsplash
-"Cloud" Photo by Edvinas Bruzas on Unsplash
-"Snowy" Photo by Valentin Müller on Unsplash
+"Clear Sky" Photo by Ritam Baishya on Unsplash 
+
+"Sunny" Photo by David Law on Unsplash 
+
+"Cloud" Photo by Edvinas Bruzas on Unsplash 
+
+"Rainy" Photo by Valentin Müller on Unsplash
+
+"Snowy" Photo by Aaron Burden on Unsplash
 
